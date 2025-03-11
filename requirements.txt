@@ -1,0 +1,6 @@
+Some Basic Insructions 
+Create a credentials.py and add agent_id , secret_id and agent_name 
+to get these you have create an APP from reddit old version 
+
+
+
